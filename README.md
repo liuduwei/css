@@ -1,2 +1,2 @@
-A part of this repo is forked by https://github.com/jonasschmedtmann/advanced-css-course
+A part of this repo is forked from https://github.com/jonasschmedtmann/advanced-css-course
 
